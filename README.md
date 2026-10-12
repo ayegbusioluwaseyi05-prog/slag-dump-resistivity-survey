@@ -1,6 +1,6 @@
 # Slag Dump Resistivity Survey
 
-**Live dashboard:** [paste link]
+**Live dashboard:** https://github.com/ayegbusioluwaseyi05-prog/slag-dump-resistivity-survey/blob/main/dashboard.html
 
 **Simulated data:** 222 readings at 38 ground stations along a ~67 m line, modeled on published slag dump resistivity research. This is not real field data.
 
