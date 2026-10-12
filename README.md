@@ -16,4 +16,4 @@
 **Files:**
 - `resistivity_survey_analysis.ipynb`: the full analysis
 - `dashboard.html`: interactive dashboard
-- `executive_summary.docx`: one-page summary
+- `executive_summary.docx`: summary 
